@@ -1,6 +1,5 @@
 from bge import logic
 import game
-from ball import own['score1']  
 
 #Controller und Szene laden
 cont = logic.getCurrentController()
